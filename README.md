@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-    <img height="100px" src='https://www.algaworks.com/images/logo-algaworks-branca-c501cc137703d6338989f01840cf2b94.png' alt="Logo">
+    <img height="100px" src='https://s3.amazonaws.com/algaworks-blog/wp-content/uploads/logo-algaworks-top.png' alt="Logo">
 </p>
 
 <br />
