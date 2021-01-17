@@ -1,2 +1,3 @@
-# algashopping-web
- Versão Web do projeto Alga-Shopping
+# alga-shopping-web
+
+Versão Web do projeto Alga-Shopping
