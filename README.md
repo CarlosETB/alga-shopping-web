@@ -2,11 +2,12 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![GitHub issues](https://img.shields.io/github/issues-raw/CarlosETB/pizzarriba.svg)](https://github.com/CarlosETB/pizzarriba/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/CarlosETB/pizzarriba.svg)](https://github.com/CarlosETB/pizzarriba/commits/master)
-![GitHub language count](https://img.shields.io/github/languages/count/CarlosETB/pizzarriba?color=%2304D361)
-![GitHub repository size](https://img.shields.io/github/repo-size/CarlosETB/pizzarriba)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/CarlosETB/pizzarriba/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues-raw/CarlosETB/alga-shopping-web.svg)](https://github.com/CarlosETB/alga-shopping-web/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/CarlosETB/alga-shopping-web.svg)](https://github.com/CarlosETB/alga-shopping-web/commits/master)
+![GitHub language count](https://img.shields.io/github/languages/count/CarlosETB/alga-shopping-web?color=%2304D361)
+![GitHub repository size](https://img.shields.io/github/repo-size/CarlosETB/alga-shopping-webi)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/CarlosETB/alga-shopping-web/stargazers)
+[![Made by Rocketseat](https://img.shields.io/badge/made%20by-AlgaWorks-%231e94d2)](https://rocketseat.com.br/)
 
 <!-- PROJECT LOGO -->
 
