@@ -7,7 +7,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/CarlosETB/alga-shopping-web?color=%2304D361)
 ![GitHub repository size](https://img.shields.io/github/repo-size/CarlosETB/alga-shopping-web)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/CarlosETB/alga-shopping-web/stargazers)
-[![Made by Rocketseat](https://img.shields.io/badge/made%20by-AlgaWorks-%231e94d2)](https://rocketseat.com.br/)
+[![Made by Rocketseat](https://img.shields.io/badge/made%20by-AlgaWorks-%231e94d2)](https://www.algaworks.com/)
 
 <!-- PROJECT LOGO -->
 
